@@ -155,14 +155,11 @@ section {
     scroll-margin-top: 120px;
 }
 
-section:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 40px rgba(255, 122, 47, 0.15);
-}
+
 
 /* Alternar fondo suave */
 section:nth-child(even) {
-    background: #fff1e7;
+    background: #ffffff;
 }
 
 /* ===== TÍTULOS ===== */
